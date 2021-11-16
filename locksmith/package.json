@@ -56,7 +56,7 @@
     "apollo-link-http": "1.5.17",
     "apollo-server": "2.14.2",
     "apollo-server-express": "2.14.2",
-    "aws-sdk": "2.689.0",
+    "aws-sdk": "2.814.0",
     "babel-jest": "26.0.1",
     "body-parser": "1.19.0",
     "coinbase": "2.0.8",
